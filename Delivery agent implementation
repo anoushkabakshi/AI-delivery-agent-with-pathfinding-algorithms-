@@ -180,3 +180,8 @@ if __name__ == "__main__":
     print(f"Replans: {metrics['replans']}")
     print("\nExecution log:")
     agent.print_log()
+
+
+
+
+
